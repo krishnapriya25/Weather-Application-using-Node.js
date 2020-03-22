@@ -94,9 +94,7 @@ app.get('/weather', (req, res) => {
     //     address: req.query.address
     // })
 })
-//app.com
-//app.com/about
-//app.com/help
+
 
 app.get('/products', (req,res) => {
 
